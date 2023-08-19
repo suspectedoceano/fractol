@@ -1,0 +1,3 @@
+gcc *.c -Lminilibx-linux -lmlx_Linux -lX11 -lXext -o fractol
+make sure the minilibX is compiled!
+of course git clone the MLX
